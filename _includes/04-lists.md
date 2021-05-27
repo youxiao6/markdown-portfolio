@@ -1,1 +1,11 @@
-Replace this with a list of your favorite things.
+1. 爱好
+    1. 吃饭
+    2. 睡觉
+    3. 打豆豆
+2. 爱看的书
+    1. 小说
+    2. 漫画  
+
+- 无题
+- 无语
+- 无解
